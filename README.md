@@ -7,10 +7,16 @@
 - Linux, git, CI/CD
 - neovim
 
-## Some Projects
+## Useful stuff
+
+- [iterator composition library](https://github.com/prncss-xyz/flua)
+- [icon theme for xplr file manager](https://github.com/prncss-xyz/icons.xplr)
+- [neo-tree source for zk-nvim](https://github.com/prncss-xyz/neo-tree-zk.nvim)
+
+## Demos
 
 - a minimalist [typing](https://prncss-xyz.github.io/keytrainer/) trainer
-- a book editor's (website)[https://prncss.gitlab.io/oie-de-cravan/]
+- a book editor's [website](https://prncss.gitlab.io/oie-de-cravan/)
   - this is the preview, we are launching soon
 
 ## Other skills
