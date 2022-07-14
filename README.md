@@ -9,7 +9,7 @@
 
 ## Useful stuff
 
-- [iterator composition library](https://github.com/prncss-xyz/flua)
+- [iterator composition library](https://github.com/prncss-xyz/flua) (lua)
 - [icon theme for xplr file manager](https://github.com/prncss-xyz/icons.xplr)
 - [neo-tree source for zk-nvim](https://github.com/prncss-xyz/neo-tree-zk.nvim)
 
