@@ -7,6 +7,11 @@
 - Linux, git, CI/CD
 - neovim
 
+## Commercial realisations
+
+- a book editor's [website](https://www.oiedecravan.com) in Gatsby
+  - [source code](https://gitlab.com/oiedecravan-groupe/oiedecravan-groupe.gitlab.io)
+
 ## Useful stuff
 
 - [iterator composition library](https://github.com/prncss-xyz/flua) (lua)
@@ -16,8 +21,6 @@
 ## Demos
 
 - a minimalist [typing](https://prncss-xyz.github.io/keytrainer/) trainer
-- a book editor's [website](https://prncss.gitlab.io/oie-de-cravan/)
-  - this is the preview, we are launching soon
 
 ## Other skills
 
