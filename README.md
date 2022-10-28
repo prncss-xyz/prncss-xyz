@@ -1,5 +1,6 @@
 ### Hi there, I'm Juliette 👋
 
+- freelance web developer
 - math-physics graduate
 - coding since childhood (30+ years), lately professionalizing
 - languages: C, C++, Lua, Bash, JavaScript, TypeScript, HTML5, CSS, GraphQl, SQL
