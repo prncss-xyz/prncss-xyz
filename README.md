@@ -1,27 +1,30 @@
 ### Hi there, I'm Juliette 👋
 
-- freelance web developer
-- math-physics graduate
-- coding since childhood (30+ years), lately professionalizing
-- languages: C, C++, Lua, Bash, JavaScript, TypeScript, HTML5, CSS, GraphQl, SQL
-- platforms: React, Node, Gatsby
-- Linux, git, CI/CD
-- neovim
+For a better introduction, see my [portefolio](https://prncss-xyz.github.io/portefolio/)
 
-## Commercial realisations
+- Main languages: Lua, Go, JavaScript, TypeScript, CSS3, HTML5
+- Other languages: Bash, C, C++, Haskell, SQL, GraphQL
+- Testing: mutation (stryker), property (fast-check), integration (playwright)
+- Frameworks: React, React Native/Expo,  Node, Next, Gatsby, Vite
+- Functional programming
+- Git, CI/CD, Linux
+- Technical documentation
+- Bilingual (English, French)
+
+## Realisations
 
 - a book editor's [website](https://www.oiedecravan.com) in Gatsby
   - [source code](https://gitlab.com/oiedecravan-groupe/oiedecravan-groupe.gitlab.io)
 
-## Useful stuff
+## Projects
 
-- [iterator composition library](https://github.com/prncss-xyz/flua) (lua)
-- [icon theme for xplr file manager](https://github.com/prncss-xyz/icons.xplr)
-- [neo-tree source for zk-nvim](https://github.com/prncss-xyz/neo-tree-zk.nvim)
+- [Flua](https://github.com/prncss-xyz/flua), a monadic iterator composition library for Lua.
+- [Zknext](https://next-app-project-kakx2xw7fq-nn.a.run.app/) an application to explore a directory of markdown files in an organized way.
+- [Timer List](https://prncss-xyz.github.io/timer-list/): a native timer app, supplemented with a "playlist", i.e. a list of durations.
 
-## Demos
+## Talks
 
-- a minimalist [typing](https://prncss-xyz.github.io/keytrainer/) trainer
+- [Functional Lenses for State Management and beyond](https://www.youtube.com/watch?v=GkFKxbMbK6A)
 
 ## Other skills
 
