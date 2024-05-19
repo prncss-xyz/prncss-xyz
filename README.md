@@ -14,7 +14,6 @@ For a better introduction, see my [portefolio](https://prncss-xyz.github.io/port
 ## Realisations
 
 - a book editor's [website](https://www.oiedecravan.com) in Gatsby
-  - [source code](https://gitlab.com/oiedecravan-groupe/oiedecravan-groupe.gitlab.io)
 
 ## Projects
 
