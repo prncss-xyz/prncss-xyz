@@ -11,15 +11,21 @@ For a better introduction, see my [portefolio](https://prncss-xyz.github.io/port
 - Technical documentation
 - Bilingual (English, French)
 
-## Realisations
+## Packages
 
-- a book editor's [website](https://www.oiedecravan.com) in Gatsby
+- [Zustand Pptics](https://github.com/prncss-xyz/zustand-optics) — An adapter fo [optics-ts](https://github.com/akheron/optics-ts).
 
 ## Projects
 
 - [Flua](https://github.com/prncss-xyz/flua), a monadic iterator composition library for Lua.
 - [Zknext](https://next-app-project-kakx2xw7fq-nn.a.run.app/) an application to explore a directory of markdown files in an organized way.
 - [Timer List](https://prncss-xyz.github.io/timer-list/): a native timer app, supplemented with a "playlist", i.e. a list of durations.
+
+## Realizations
+
+- my portefolio [website](https://prncss-xyz.github.io/portefolio/about) in Nextjs
+- an academinc [website](https://oic.uqam.ca/) in Nextjs
+- a book editor's [website](https://www.oiedecravan.com) in Gatsby
 
 ## Talks
 
